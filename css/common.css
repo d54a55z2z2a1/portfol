@@ -19,7 +19,7 @@ li {
 
 body {
     color:#333;
-    
+    min-width: 1900px;
     line-height: 1;
 }
 
